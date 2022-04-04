@@ -11,7 +11,7 @@
     <img src="img/logo.jpg" alt="Logo" width="150" height="150"/>
     </kbd>
 
-  <a href="https://dynamico-gaming.netlify.app/">
+  <a href="https://github.com/omarashzeinhom/graphcms-gaming-blog">
   </a>
 
   <h3 align="center"></h3>
@@ -21,7 +21,7 @@
     <br />
     <br />
     <br />
-    <a href="https://oa-gaming-blog.vercel.app/">View Demo</a>
+    <a href="https://dynamico-gaming.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/omarashzeinhom/gaming-graphcms-blog-auth/issues">Report Bug</a>
     ·
