@@ -8,10 +8,10 @@ import { Disclosure, Menu, Transition } from '@headlessui/react'
 import Link from 'next/link'
 
 const navigation = [
-  { name: 'Home', href: 'http://localhost:3000/', current: true },
+  { name: 'Home', href: 'https://dynamico-gaming.netlify.app/', current: true },
   {
     name: 'Categories',
-    href: 'http://localhost:3000/category/gamingnews',
+    href: 'https://dynamico-gaming.netlify.app/category/gamingnews',
     current: true,
   },
 ]
