@@ -16,7 +16,7 @@ const Categorypost = ({ posts }) => {
       <nav className="w-full rounded-md">
         <ol className="list-reset flex">
           <li>
-            <a href="http://localhost:3000/" className="text-orange-500 hover:text-orange-700">
+            <a href="https://dynamico-gaming.netlify.app/" className="text-orange-500 hover:text-orange-700">
               Home
             </a>
           </li>
