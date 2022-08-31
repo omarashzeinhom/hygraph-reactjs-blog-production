@@ -57,7 +57,7 @@ rounded-full text-center  transition duration-500  hover:-translate-y-1 border-a
           {post.excerpt}
         </p>
         <div className="text-center">
-          <Link passHref href={`post/${post.slug}`}>
+          <Link passHref href={`https://dynamico-gaming.netlify.app/post/${post.slug}`}>
             <span className="transistion transition-duration: 1s; inline-block transform   cursor-pointer rounded-full bg-amber-300 from-emerald-500 via-emerald-600 to-emerald-700 px-7 py-2 text-lg font-medium text-black duration-300 hover:-translate-y-1 hover:bg-gradient-to-l hover:text-white">
               Continue reading ?
             </span>
@@ -68,4 +68,4 @@ rounded-full text-center  transition duration-500  hover:-translate-y-1 border-a
   )
 }
 
-export default PagePostCard
+export default PagePostCard;
