@@ -12,7 +12,7 @@
     "@heroicons/react": "^1.0.6",
     "bcrypt": "^5.0.1",
     "flowbite": "^1.4.1",
-    "graphql": "^16.3.0",
+    "graphql": "^16.8.1",
     "graphql-request": "^4.2.0",
     "html-react-parser": "^1.4.9",
     "moment": "^2.29.4",
